@@ -1,4 +1,4 @@
-# Home-Automation
+# Smart-Home-Automation
 Home automation system using IoT, MQTT, React.js, and Node.js involves several steps, including setting up the hardware, backend, and frontend.
 
 Here's a detailed description of how you can build such a system:
